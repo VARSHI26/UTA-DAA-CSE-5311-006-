@@ -1,1 +1,4 @@
-# DAA-UTA
+
+SYSTEM SPECIFICATIONS
+CPU : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   1.38 GHz
+RAM : 8.00 GB (7.73 GB usable)

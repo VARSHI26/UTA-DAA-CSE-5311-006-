@@ -1,0 +1,12 @@
+Add files via upload
+Task 1: ith quicksort working
+   In code after finding the ith order statistic using quickselect, it performs a validation step to validate correctness. Have created a copy of the original array and sorts it using the sort() method. Then compared the ith element of the sorted array with the ith order statistic obtained from quickselect.
+   If both values match, code indicates that the ith order statistic was correctly identified.
+
+Task 2:
+    Implemented Stack, Queue and Linkedlist
+    To run Stack, run StackInterface.py and then Stack.py
+    To run Queue, run QueueInterface.py and then Queue.py
+    To run LinkedList, run LinkedListInterface.py and then LinkedList.py
+
+Output is attached in all files, for task 1 and task 2

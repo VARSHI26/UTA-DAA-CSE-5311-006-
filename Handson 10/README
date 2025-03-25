@@ -1,0 +1,13 @@
+Hands on 10
+
+1. Generic Hash Function: Default multiplication function implemented, also have taken a double value from user to use generic hash function. After taking the new values, output contains rehased table
+
+2. Keys and Values: The implementation assumes keys and values are integers - as per the requirement
+
+3. Collision Resolution by Chaining: The implementation uses collision resolution by chaining with doubly linked lists, as specified.
+
+4. Have used doubly linked lists for chaining and have not used generic ArrayList
+
+5. Dynamic Resizing: When its elements are more than 75% the capacity is doubled and when elements are less than 25% the capacity is halfed
+
+All the functionalities are tested and the code and output is attached.
